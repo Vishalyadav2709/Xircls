@@ -1,0 +1,21 @@
+.me-auto {
+   
+    margin-left: auto;
+    font-size:20px
+}
+
+.container{
+    max-width: 1583px;
+}
+.partner{
+    margin-left: 40px;
+}
+.login {
+    margin-left: 25px;
+    background-color: white;
+    color: black;
+    border-block-color: black;
+}
+.btn{
+    height: 45px;
+}
